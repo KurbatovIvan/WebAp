@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration strict="true">
+    <!-- include this to enable log4j internal debug messages: status="debug" -->
+    <Properties>
+        <Property name="filename">${sys:catalina.home}/logs/webudget-${/\w+/.exec(location.pathname)[0]}.log</Property>
+    </Properties>
+    <Appenders>
+    </Appenders>
+    <Loggers>
+    </Loggers>
+</Configuration>

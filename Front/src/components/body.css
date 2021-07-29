@@ -1,0 +1,20 @@
+body {
+    padding-Top:50px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) 
+body {
+ padding-Top:60px;
+}
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    body{
+        padding-Top:120px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    body {
+      padding-Top:180px;
+    }
+}

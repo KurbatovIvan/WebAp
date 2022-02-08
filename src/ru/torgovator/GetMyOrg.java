@@ -24,6 +24,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 
 import ru.torgovator.BuilderQueryMyOrg.BuilderMyOrg;
+//import BuilderQueryMyOrg.BuilderMyOrg;
 
 /** Servlet implementation class GetMyOrg */
 @WebServlet("/GetMyOrg")

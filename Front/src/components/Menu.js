@@ -81,6 +81,7 @@ signIn = () =>
   }
   const _auth_Error = GoogleUser => {
     console.log('Auth Error');
+    console.log(GoogleUser);    
   }  
  console.log('signIn');
  const GoogleAuth=window.gapi.auth2.getAuthInstance()

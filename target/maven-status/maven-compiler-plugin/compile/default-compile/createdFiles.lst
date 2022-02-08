@@ -3,12 +3,15 @@ ru\torgovator\SQLConnector.class
 ru\torgovator\MyServlet.class
 ru\torgovator\Application.class
 ru\torgovator\BuilderQueryMyOrg$BuilderMyOrg.class
+ru\torgovator\BuilderQueryZakupki$BuilderZakupki.class
 ru\torgovator\BuilderQueryOrg.class
+ru\torgovator\BuilderQueryZakupki.class
 ru\torgovator\DBConnectInfo.class
 ru\torgovator\GetOrg.class
 ru\torgovator\MyOrg.class
 ru\torgovator\users.class
 ru\torgovator\BuilderQuery$Builder.class
+ru\torgovator\BuilderQueryZakupki44FZ.class
 ru\torgovator\GetZakupki.class
 ru\utils\StringUtils.class
 ru\torgovator\Removemyorg.class
